@@ -1,2 +1,2 @@
 # markov-chat
-A universal chatbot based on Markov chains
+**markov-chat** is a universal Node.js chatbot library based on Markov chains, trainable on any chat.

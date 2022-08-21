@@ -1,4 +1,5 @@
 function quickMarkov(sentences){
+    if(sentences.length === 0) return null
     const startwords = []
     const chain = {}
     for(x=0;x<sentences.length;x++){
